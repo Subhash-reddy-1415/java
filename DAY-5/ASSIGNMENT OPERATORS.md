@@ -42,10 +42,10 @@ public class Ass {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("ENTER A VALUE = ");
+        System.out.print("ENTER A VALUE = ");
         int a = sc.nextInt();
 
-        System.out.println("ENTER THE B VALUE = ");
+        System.out.print("ENTER THE B VALUE = ");
         int b = sc.nextInt();
 
         // Performing assignment operations
