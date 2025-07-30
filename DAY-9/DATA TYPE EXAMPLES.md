@@ -24,9 +24,7 @@ Run the program: java Main.
 Output
 The program will print a series of messages, each demonstrating the value and usage of a different data type.
 Contributing
-Feel free to fork this repository and submit pull requests for improvements or additional examples.
-License
-This project is licensed under the MIT License.
+.
 
 
 
