@@ -2,7 +2,7 @@
 markdown
 Copy
 Edit
-# Simple Dog Class in Java
+# Simple Dog Class in java
 
 ## Objective
 To create a basic Java program demonstrating:
