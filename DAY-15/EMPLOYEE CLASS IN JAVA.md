@@ -2,7 +2,7 @@
 
 # Simple Employee Class in Java
 
-## Objective
+##   Objective
 To demonstrate the basics of Object-Oriented Programming in Java:
 - Creating a class
 - Defining and calling methods
