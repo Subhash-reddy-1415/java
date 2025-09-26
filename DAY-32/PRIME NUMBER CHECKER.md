@@ -5,6 +5,7 @@ This program checks whether a given number is prime or not prime.
 It uses a for loop and modulus (%) operator to test divisibility.
 
 📝 Code
+```
 import java.util.Scanner;
 
 public class A {
@@ -30,7 +31,7 @@ public class A {
         }
     }
 }
-
+```
 🖥️ Example Output
 Input 1:
 ENTER THE NUMBER = 7
